@@ -6,10 +6,11 @@ Veuillez trouver la totalité des fichiers sources présents dans mon programme 
 
 # Mode d'emploi du jeu :
 
-Bouton Play : Espace \n
+Bouton Play : Espace
 Déplacement vers la gauche : Q
 Déplacement vers la droite : D
 Tir : Espace
-Pause : P
+Pause : P## Commentaires
+
 
 ## Commentaires
