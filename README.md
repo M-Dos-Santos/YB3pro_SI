@@ -10,7 +10,4 @@ Bouton Play : Espace
 Déplacement vers la gauche : Q
 Déplacement vers la droite : D
 Tir : Espace
-Pause : P## Commentaires
-
-
-## Commentaires
+Pause : P
